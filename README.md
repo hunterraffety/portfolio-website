@@ -1,3 +1,11 @@
+# Portfolio URLs
+
+## Lambda Project for Responsive Design II:
+- [http://hunterraffety.me/](https://hunterraffety.me/)
+
+## Personal Portfolio:
+- [https://steadybeatdesign.net/](https://steadybeatdesign.net/)
+
 # Build A Portfolio Website
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them! There is no better opportunity to learn and show off your skills than a beautiful portfolio website.
